@@ -488,9 +488,7 @@ Publish the website in the given URL.
         </div>
     </section>
 
-    <footer>
-        &copy; BALAMURUGAN RESTAURANT.... All rights reserved. | Website Designed by BALAMURUGAN S (25017904)
-    </footer>
+
 
 </body>
 </html>
